@@ -2,11 +2,13 @@
 <br />
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2> 
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MrRaulUTPL.repoName)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=)
+
 
 <p> 
-I am currently a graduate student interested in computer science/information technology. With the motivation to aspire to more and fully understand programming languages ​​such as "HTML5" "CSS" "JS" "PHP" among others, over the years and time improving little by little until reaching the level maximum that is possible.
+I am currently a graduate student interested in computer science/information technology. With the motivation to aspire to more and fully understand programming languages ​​such as "HTML5" "CSS" "JS" "PHP" among others, over the years and time improving little by little until reaching the level maximum that is possible. 
 </p>
+
 
 
 <hr>
@@ -56,3 +58,4 @@ I am currently a graduate student interested in computer science/information tec
 <hr>
 
 Last Edited on: 14/06/2024
+
